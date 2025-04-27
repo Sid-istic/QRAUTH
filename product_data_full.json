@@ -1,0 +1,802 @@
+{
+  "tv001": {
+    "name": "Ultra HD Smart TV 1",
+    "image": "images/tv/1.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 26820,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 11,
+    "rating": 3.8
+  },
+  "tv002": {
+    "name": "Ultra HD Smart TV 2",
+    "image": "images/tv/2.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 26859,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 25,
+    "rating": 4.3
+  },
+  "tv003": {
+    "name": "Ultra HD Smart TV 3",
+    "image": "images/tv/3.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 25930,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 40,
+    "rating": 3.6
+  },
+  "tv004": {
+    "name": "Ultra HD Smart TV 4",
+    "image": "images/tv/4.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 26853,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 49,
+    "rating": 3.7
+  },
+  "tv005": {
+    "name": "Ultra HD Smart TV 5",
+    "image": "images/tv/5.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 27370,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 5,
+    "rating": 4.9
+  },
+  "tv006": {
+    "name": "Ultra HD Smart TV 6",
+    "image": "images/tv/6.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 24899,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 34,
+    "rating": 4.4
+  },
+  "tv007": {
+    "name": "Ultra HD Smart TV 7",
+    "image": "images/tv/7.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 24214,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 26,
+    "rating": 4.5
+  },
+  "tv008": {
+    "name": "Ultra HD Smart TV 8",
+    "image": "images/tv/8.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 28927,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 29,
+    "rating": 4.4
+  },
+  "tv009": {
+    "name": "Ultra HD Smart TV 9",
+    "image": "images/tv/9.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 24562,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 43,
+    "rating": 4.1
+  },
+  "tv010": {
+    "name": "Ultra HD Smart TV 10",
+    "image": "images/tv/10.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 29114,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 7,
+    "rating": 3.7
+  },
+  "tv011": {
+    "name": "Ultra HD Smart TV 11",
+    "image": "images/tv/11.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 29392,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 9,
+    "rating": 4.1
+  },
+  "tv012": {
+    "name": "Ultra HD Smart TV 12",
+    "image": "images/tv/12.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 23378,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 13,
+    "rating": 5.0
+  },
+  "tv013": {
+    "name": "Ultra HD Smart TV 13",
+    "image": "images/tv/13.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 29331,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 41,
+    "rating": 4.1
+  },
+  "tv014": {
+    "name": "Ultra HD Smart TV 14",
+    "image": "images/tv/14.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 22313,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 32,
+    "rating": 3.6
+  },
+  "tv015": {
+    "name": "Ultra HD Smart TV 15",
+    "image": "images/tv/15.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 23881,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 34,
+    "rating": 4.9
+  },
+  "tv016": {
+    "name": "Ultra HD Smart TV 16",
+    "image": "images/tv/16.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 29187,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 33,
+    "rating": 3.9
+  },
+  "tv017": {
+    "name": "Ultra HD Smart TV 17",
+    "image": "images/tv/17.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 27297,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 49,
+    "rating": 4.6
+  },
+  "tv018": {
+    "name": "Ultra HD Smart TV 18",
+    "image": "images/tv/18.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 23078,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 16,
+    "rating": 4.6
+  },
+  "tv019": {
+    "name": "Ultra HD Smart TV 19",
+    "image": "images/tv/19.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 28412,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 21,
+    "rating": 4.0
+  },
+  "tv020": {
+    "name": "Ultra HD Smart TV 20",
+    "image": "images/tv/20.jpg",
+    "description": "Ultra HD Smart TV with HDR support and built-in apps.",
+    "price": 29641,
+    "brand": "VisionTech",
+    "color": "Black",
+    "stock": 11,
+    "rating": 3.7
+  },
+  "jeans001": {
+    "name": "Classic Blue Jeans 1",
+    "image": "images/jeans/1.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1347,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 31,
+    "rating": 4.0
+  },
+  "jeans002": {
+    "name": "Classic Blue Jeans 2",
+    "image": "images/jeans/2.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1279,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 47,
+    "rating": 4.0
+  },
+  "jeans003": {
+    "name": "Classic Blue Jeans 3",
+    "image": "images/jeans/3.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1922,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 31,
+    "rating": 4.5
+  },
+  "jeans004": {
+    "name": "Classic Blue Jeans 4",
+    "image": "images/jeans/4.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1901,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 47,
+    "rating": 4.3
+  },
+  "jeans005": {
+    "name": "Classic Blue Jeans 5",
+    "image": "images/jeans/5.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1787,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 5,
+    "rating": 4.1
+  },
+  "jeans006": {
+    "name": "Classic Blue Jeans 6",
+    "image": "images/jeans/6.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1775,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 29,
+    "rating": 4.4
+  },
+  "jeans007": {
+    "name": "Classic Blue Jeans 7",
+    "image": "images/jeans/7.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1440,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 24,
+    "rating": 4.1
+  },
+  "jeans008": {
+    "name": "Classic Blue Jeans 8",
+    "image": "images/jeans/8.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1835,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 38,
+    "rating": 3.6
+  },
+  "jeans009": {
+    "name": "Classic Blue Jeans 9",
+    "image": "images/jeans/9.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1707,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 25,
+    "rating": 3.7
+  },
+  "jeans010": {
+    "name": "Classic Blue Jeans 10",
+    "image": "images/jeans/10.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1400,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 7,
+    "rating": 3.8
+  },
+  "jeans011": {
+    "name": "Classic Blue Jeans 11",
+    "image": "images/jeans/11.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1512,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 49,
+    "rating": 4.0
+  },
+  "jeans012": {
+    "name": "Classic Blue Jeans 12",
+    "image": "images/jeans/12.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1482,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 17,
+    "rating": 3.8
+  },
+  "jeans013": {
+    "name": "Classic Blue Jeans 13",
+    "image": "images/jeans/13.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1427,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 50,
+    "rating": 3.6
+  },
+  "jeans014": {
+    "name": "Classic Blue Jeans 14",
+    "image": "images/jeans/14.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1821,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 35,
+    "rating": 4.2
+  },
+  "jeans015": {
+    "name": "Classic Blue Jeans 15",
+    "image": "images/jeans/15.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1275,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 24,
+    "rating": 4.6
+  },
+  "jeans016": {
+    "name": "Classic Blue Jeans 16",
+    "image": "images/jeans/16.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1501,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 32,
+    "rating": 3.8
+  },
+  "jeans017": {
+    "name": "Classic Blue Jeans 17",
+    "image": "images/jeans/17.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1267,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 48,
+    "rating": 4.4
+  },
+  "jeans018": {
+    "name": "Classic Blue Jeans 18",
+    "image": "images/jeans/18.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1245,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 49,
+    "rating": 4.5
+  },
+  "jeans019": {
+    "name": "Classic Blue Jeans 19",
+    "image": "images/jeans/19.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1661,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 41,
+    "rating": 3.6
+  },
+  "jeans020": {
+    "name": "Classic Blue Jeans 20",
+    "image": "images/jeans/20.jpg",
+    "description": "Comfortable slim fit jeans made from high-quality cotton denim.",
+    "price": 1316,
+    "brand": "DenimCo",
+    "color": "Blue",
+    "stock": 45,
+    "rating": 3.7
+  },
+  "tshirt001": {
+    "name": "Basic Cotton T-Shirt 1",
+    "image": "images/tshirt/1.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 546,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 18,
+    "rating": 3.7
+  },
+  "tshirt002": {
+    "name": "Basic Cotton T-Shirt 2",
+    "image": "images/tshirt/2.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 345,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 15,
+    "rating": 4.5
+  },
+  "tshirt003": {
+    "name": "Basic Cotton T-Shirt 3",
+    "image": "images/tshirt/3.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 677,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 6,
+    "rating": 4.4
+  },
+  "tshirt004": {
+    "name": "Basic Cotton T-Shirt 4",
+    "image": "images/tshirt/4.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 786,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 8,
+    "rating": 4.5
+  },
+  "tshirt005": {
+    "name": "Basic Cotton T-Shirt 5",
+    "image": "images/tshirt/5.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 440,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 24,
+    "rating": 3.9
+  },
+  "tshirt006": {
+    "name": "Basic Cotton T-Shirt 6",
+    "image": "images/tshirt/6.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 668,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 10,
+    "rating": 4.4
+  },
+  "tshirt007": {
+    "name": "Basic Cotton T-Shirt 7",
+    "image": "images/tshirt/7.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 408,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 31,
+    "rating": 3.6
+  },
+  "tshirt008": {
+    "name": "Basic Cotton T-Shirt 8",
+    "image": "images/tshirt/8.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 561,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 8,
+    "rating": 4.5
+  },
+  "tshirt009": {
+    "name": "Basic Cotton T-Shirt 9",
+    "image": "images/tshirt/9.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 662,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 45,
+    "rating": 3.8
+  },
+  "tshirt010": {
+    "name": "Basic Cotton T-Shirt 10",
+    "image": "images/tshirt/10.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 709,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 34,
+    "rating": 4.3
+  },
+  "tshirt011": {
+    "name": "Basic Cotton T-Shirt 11",
+    "image": "images/tshirt/11.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 689,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 21,
+    "rating": 4.4
+  },
+  "tshirt012": {
+    "name": "Basic Cotton T-Shirt 12",
+    "image": "images/tshirt/12.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 776,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 41,
+    "rating": 3.7
+  },
+  "tshirt013": {
+    "name": "Basic Cotton T-Shirt 13",
+    "image": "images/tshirt/13.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 609,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 36,
+    "rating": 4.6
+  },
+  "tshirt014": {
+    "name": "Basic Cotton T-Shirt 14",
+    "image": "images/tshirt/14.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 778,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 25,
+    "rating": 3.8
+  },
+  "tshirt015": {
+    "name": "Basic Cotton T-Shirt 15",
+    "image": "images/tshirt/15.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 433,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 42,
+    "rating": 5.0
+  },
+  "tshirt016": {
+    "name": "Basic Cotton T-Shirt 16",
+    "image": "images/tshirt/16.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 533,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 43,
+    "rating": 4.0
+  },
+  "tshirt017": {
+    "name": "Basic Cotton T-Shirt 17",
+    "image": "images/tshirt/17.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 367,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 9,
+    "rating": 5.0
+  },
+  "tshirt018": {
+    "name": "Basic Cotton T-Shirt 18",
+    "image": "images/tshirt/18.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 738,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 18,
+    "rating": 3.7
+  },
+  "tshirt019": {
+    "name": "Basic Cotton T-Shirt 19",
+    "image": "images/tshirt/19.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 336,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 8,
+    "rating": 4.9
+  },
+  "tshirt020": {
+    "name": "Basic Cotton T-Shirt 20",
+    "image": "images/tshirt/20.jpg",
+    "description": "100% cotton t-shirt with round neck and short sleeves.",
+    "price": 579,
+    "brand": "StyleCore",
+    "color": "White",
+    "stock": 21,
+    "rating": 4.7
+  },
+  "sofa001": {
+    "name": "Modern Fabric Sofa 1",
+    "image": "images/sofa/1.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 17973,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 20,
+    "rating": 4.3
+  },
+  "sofa002": {
+    "name": "Modern Fabric Sofa 2",
+    "image": "images/sofa/2.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 14639,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 24,
+    "rating": 4.8
+  },
+  "sofa003": {
+    "name": "Modern Fabric Sofa 3",
+    "image": "images/sofa/3.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 13145,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 28,
+    "rating": 3.6
+  },
+  "sofa004": {
+    "name": "Modern Fabric Sofa 4",
+    "image": "images/sofa/4.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 15055,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 43,
+    "rating": 4.4
+  },
+  "sofa005": {
+    "name": "Modern Fabric Sofa 5",
+    "image": "images/sofa/5.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 17849,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 17,
+    "rating": 4.2
+  },
+  "sofa006": {
+    "name": "Modern Fabric Sofa 6",
+    "image": "images/sofa/6.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 13626,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 40,
+    "rating": 4.9
+  },
+  "sofa007": {
+    "name": "Modern Fabric Sofa 7",
+    "image": "images/sofa/7.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 19988,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 46,
+    "rating": 4.9
+  },
+  "sofa008": {
+    "name": "Modern Fabric Sofa 8",
+    "image": "images/sofa/8.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 18227,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 47,
+    "rating": 4.2
+  },
+  "sofa009": {
+    "name": "Modern Fabric Sofa 9",
+    "image": "images/sofa/9.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 13614,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 5,
+    "rating": 4.7
+  },
+  "sofa010": {
+    "name": "Modern Fabric Sofa 10",
+    "image": "images/sofa/10.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 14111,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 26,
+    "rating": 4.6
+  },
+  "sofa011": {
+    "name": "Modern Fabric Sofa 11",
+    "image": "images/sofa/11.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 19846,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 10,
+    "rating": 3.6
+  },
+  "sofa012": {
+    "name": "Modern Fabric Sofa 12",
+    "image": "images/sofa/12.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 18789,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 38,
+    "rating": 4.2
+  },
+  "sofa013": {
+    "name": "Modern Fabric Sofa 13",
+    "image": "images/sofa/13.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 14549,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 6,
+    "rating": 4.2
+  },
+  "sofa014": {
+    "name": "Modern Fabric Sofa 14",
+    "image": "images/sofa/14.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 17825,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 8,
+    "rating": 4.1
+  },
+  "sofa015": {
+    "name": "Modern Fabric Sofa 15",
+    "image": "images/sofa/15.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 18728,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 32,
+    "rating": 4.0
+  },
+  "sofa016": {
+    "name": "Modern Fabric Sofa 16",
+    "image": "images/sofa/16.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 14586,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 20,
+    "rating": 5.0
+  },
+  "sofa017": {
+    "name": "Modern Fabric Sofa 17",
+    "image": "images/sofa/17.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 16258,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 12,
+    "rating": 4.9
+  },
+  "sofa018": {
+    "name": "Modern Fabric Sofa 18",
+    "image": "images/sofa/18.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 18670,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 46,
+    "rating": 4.1
+  },
+  "sofa019": {
+    "name": "Modern Fabric Sofa 19",
+    "image": "images/sofa/19.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 14371,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 9,
+    "rating": 4.0
+  },
+  "sofa020": {
+    "name": "Modern Fabric Sofa 20",
+    "image": "images/sofa/20.jpg",
+    "description": "3-seater modern fabric sofa with wooden frame and plush cushions.",
+    "price": 19798,
+    "brand": "ComfyHome",
+    "color": "Grey",
+    "stock": 33,
+    "rating": 3.9
+  }
+}
